@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="form.css">
+    <title>
+        ::Form::
+    </title>
+</head>
+<div class ="header">
+  <span class="logo"><b>TO THE NEW</b></span>
+  <div class ="right">
+    <span class="active"><b>Home &nbsp &nbsp</b></span>
+    <span class="passive"><b>Quick help</b></span>
+  </div>
+</div>
+<hr>
+
+<div class="main-form">
+    <div id="BugReport">
+      <h1 style="color: #ffff;">Bug Report</h1>
+    </div>
+    <div class="form">
+        <form>
+            <p>Title:*</p>
+            <input type="text" id="title" placeholder="">
+            <p>Description:*</p>
+            <textarea id = "des" rows="4" cols="50">
+
+            </textarea>
+
+            <p>Operating System:</p>
+            <div class="os">
+            <select>
+                <option value="1">Windows XP</option>
+            </select>
+            </div>
+
+            <p>Products:*</p>
+            <div class="product">
+            <select>
+                <option value="1">Formoid</option>
+            </select>
+            </div>
+
+            <p>Versions:*</p>
+            <input type="text" id="version">
+
+            <p>License:</p>
+            <div id="License">
+            <input type="radio" name="Free" value="Free" >
+            <label for="Free" >Free</label>
+            <input type="radio" name="Business" value="Business" style="margin-left:160px";>
+            <label for="Business">Business</label>
+            </div>
+
+
+            <p>Severity:</p>
+            <div class="Severity">
+            <select>
+                <option value="Critical">Critical</option>
+            </select>
+            </div>
+
+            <p>Attachments:</p>
+            <div class="attach">
+            <input type="text" id="att" placeholder="No file selected">
+            <input type="submit" id="ach" value="Choose File">
+            </div>
+
+            <hr class="hr">
+
+            <div class="submit">
+            <input type="submit" id="send" value="Send">
+            </div>
+        </form>
+    </div>
+</div>
+</html>

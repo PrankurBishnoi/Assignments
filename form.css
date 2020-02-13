@@ -1,0 +1,159 @@
+.header
+{
+  padding: 5px 5px 0px 5px;
+  height: 40px;
+}
+
+.passive
+{
+  padding-left: 10px;
+}
+
+.header span
+{
+  color: #3cb371;
+  padding: 2px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+.logo
+{
+  font-size: 25px;
+}
+
+.right
+{
+  font-size: 17px;
+  float: right;
+}
+
+.main-form
+{
+  width: 450px;
+  height: auto;
+  border: 2px solid #cccccc;
+  padding: 20px;
+  line-height: 1px;
+  margin: auto;
+  margin-top: 3%;
+  border-radius: 10px 10px 10px 10px;
+}
+
+#BugReport
+{
+    width: 100%;
+    height: 50px;
+    margin-top: -20px;
+    margin-left: -20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom:20px;
+    padding-right: 20px;
+    background-color: #bcc3cb;
+    border-radius: 5px 5px 0px 0px;
+}
+
+#title
+{
+    width: 100%;
+    height: 20px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#des
+{
+    width: 100%;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.os select
+{
+    border: 1px solid #19bd9b;
+    border-radius: 5px 5px 5px 5px;
+    width: 100%;
+    height: 30px;
+    padding: 3px;
+    color: #ffff;
+    background-color: #19bd9b;
+}
+
+#product
+{
+    width: 100%;
+    height: 20px;
+}
+
+.product select
+{
+    border: 1px solid #19bd9b;
+    border-radius: 5px 5px 5px 5px;
+    width: 100%;
+    height: 30px;
+    padding: 3px;
+    color: #ffff;
+    background-color: #19bd9b;
+}
+
+#version
+{
+    width: 25%;
+    height: 20px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.Severity select
+{
+    border: 1px solid #19bd9b;
+    border-radius: 5px 5px 5px 5px;
+    width: 100%;
+    height: 30px;
+    padding: 3px;
+    color: #ffff;
+    background-color: #19bd9b;
+}
+
+#att
+{
+    width: 70%;
+    height: 20px;
+    border-radius: 5px 0px 0px 5px
+}
+
+#ach
+{
+    width: 28%;
+    height: 26px;
+    border: 1px solid #bcc3cb;
+    border-radius: 0px 5px 5px 0px;
+    background-color: #bcc3cb;
+    color: #ffff;
+    margin-left: -4px;
+}
+
+.attach
+{
+    margin-bottom: 15px;
+}
+
+.submit
+{
+    width: 100%;
+    height: 50px;
+    margin-bottom: -20px;
+    margin-left: -20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #eeeff1;
+}
+
+#send
+{
+    margin: 5px 370px;
+    width: 15%;
+    height: 60%;
+    border: 1px solid #19bd9b;
+    border-radius: 5px 5px 5px 5px;
+    background-color: #19bd9b;
+    color: #ffff;
+}
