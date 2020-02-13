@@ -113,22 +113,22 @@
     background-color: #19bd9b;
 }
 
-#att
+#ach
 {
     width: 70%;
     height: 20px;
     border-radius: 5px 0px 0px 5px
 }
 
-#ach
+#att
 {
-    width: 28%;
-    height: 26px;
+    height: 22px;
     border: 1px solid #bcc3cb;
-    border-radius: 0px 5px 5px 0px;
+    border-radius: 5px 5px 5px 5px;
     background-color: #bcc3cb;
     color: #ffff;
-    margin-left: -4px;
+    
+    width: 450px;
 }
 
 .attach
