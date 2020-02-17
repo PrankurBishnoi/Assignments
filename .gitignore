@@ -1,3 +1,4 @@
-./Java Assignment 1/.idea
-./Java Assignment 1/out
-./Java Assignment 1/Java Assignment 1
+Java Assignment 1/.idea/
+Java Assignment 1/out/
+Java Assignment 1/Java Assignment 1/
+.gitignore
