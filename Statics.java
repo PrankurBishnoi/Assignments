@@ -5,20 +5,22 @@ import java.util.Scanner;
 
 public class Statics
 {
-    static int Static_Block;
-    static int Static_Variable = 300;
+    static String FirstName;
+    static String LastName;
+    static int Age = 30;
     static void Static_method()
     {
-        System.out.println("Static Method");
+        LastName="HIJKLMNO";
+        System.out.println("Last Name = "+LastName);
     }
     static
     {
-        Static_Block=100;
-        System.out.println("Static Block = "+Static_Block);
+        FirstName="ABCDEFG";
+        System.out.println("First Name = "+FirstName);
     }
     public static void main(String[] args)
     {
         Static_method();
-        System.out.println("Static Variable = "+Static_Variable);
+        System.out.println("Age = "+Age);
     }
 }
