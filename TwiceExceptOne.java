@@ -21,9 +21,10 @@ public class TwiceExceptOne
                 if( i==j )
                     c++;
             }
-            if ( c!=2)
-                System.out.println("Element is: "+i);
-            break;
+            if ( c!=2) {
+                System.out.println("Element is: " + i);
+                break;
+            }
         }
     }
 }
