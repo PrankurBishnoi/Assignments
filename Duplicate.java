@@ -6,7 +6,8 @@ import java.lang.*;
 import static java.util.Arrays.*;
 
 public class Duplicate {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a String");
         String Strings = sc.nextLine();
@@ -24,6 +25,14 @@ public class Duplicate {
                 System.out.println("Occurence of "+arrOfStrings[i]+" is: "+c);
                 c=1;
             }
+        }
+        if(arrOfStrings[arrOfStrings.length-2].equalsIgnoreCase(arrOfStrings[arrOfStrings.length-1]))
+        {
+            System.out.println("Occurence of "+arrOfStrings[arrOfStrings.length-1]+" is: "+(c));
+        }
+        else
+        {
+            System.out.println("Occurence of "+arrOfStrings[arrOfStrings.length-1]+" is: ");
         }
 
     }

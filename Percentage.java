@@ -34,8 +34,8 @@ public class Percentage
         System.out.println("Total:- "+(l+u+s+d));
         System.out.println("LowerCase:-   Number ( "+l+" ) and percentage ( "+((l*100)/Strings.length())+"),");
         System.out.println("UpperCase:-   Number ( "+u+" ) and percentage ( "+((u*100)/Strings.length())+"),");
-        System.out.println("UpperCase:-   Number ( "+d+" ) and percentage ( "+((d*100)/Strings.length())+"),");
-        System.out.println("UpperCase:-   Number ( "+s+" ) and percentage ( "+((s*100)/Strings.length())+"),");
+        System.out.println("Digits:-   Number ( "+d+" ) and percentage ( "+((d*100)/Strings.length())+"),");
+        System.out.println("Symbols:-   Number ( "+s+" ) and percentage ( "+((s*100)/Strings.length())+"),");
 
 
     }
