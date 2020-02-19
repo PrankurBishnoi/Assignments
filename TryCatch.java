@@ -6,6 +6,10 @@ public class TryCatch
         {
             int i=0/0;
         }
+        catch (ArithmeticException e)
+        {
+            System.out.println("Arithmetic Error Occured");
+        }
         catch (Exception e)
         {
             System.out.println("Error Occured");
