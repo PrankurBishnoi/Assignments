@@ -1,3 +1,4 @@
+//Ans 7
 package Java8;
 
 interface Interfaces
@@ -22,3 +23,6 @@ public class OverrideDefault implements Interfaces
         interfacess.defaultMethod();
     }
 }
+
+
+
