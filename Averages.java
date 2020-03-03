@@ -1,6 +1,8 @@
 package Java8;
 
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 public class Averages
@@ -10,8 +12,13 @@ public class Averages
         System.out.println(
                 list
                 .stream()
+                .map(n->n*2)
                 .mapToInt(Integer::intValue)
                 .average()
+
         );
     }
 }
+
+
+
