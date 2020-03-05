@@ -1,0 +1,23 @@
+/*class DatePlugin implements Plugin<Project>
+{
+    @Override
+    void apply(Project project)
+    {
+        project.task("date")
+                {
+                    doLast
+                            {
+                                println("Date is: ",new Date());
+                            }
+                }
+    }
+
+}*/
+
+apply plugin: 'java'
+apply plugin: 'groovy'
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8

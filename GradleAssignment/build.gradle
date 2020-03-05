@@ -1,0 +1,74 @@
+//apply from: 'datePlugin.gradle'
+/*buildscript {
+    dependencies {
+        classpath files('show-date/build/libs/show-date-1.0-SNAPSHOT.jar')
+    }
+}*/
+
+class DatePlugin implements Plugin<Project>
+{
+    @Override
+    void apply(Project project)
+    {
+        project.task("date")
+                {
+                    doLast
+                            {
+                                println(new Date());
+                            }
+                }
+    }
+
+}
+
+plugins {
+    id 'java'
+    id 'groovy'
+//    id 'org.example.show-date-1.0-SNAPSHOT'
+}
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'HelloWorld'
+
+        )
+    }
+}
+
+
+
+//apply from: 'datePlugin.gradle'
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile 'com.google.code.gson:gson:2.8.0'
+}
+sourceSets
+        {
+            main
+                    {
+                        java {
+                            srcDir('src/main/java')
+                            srcDir('show-date')
+                            //include "src/main/JavaCode1"
+                            //include "src/main/JavaCode2"
+                            //include 'java'
+                        }
+                    }
+        }
+
+
+//apply plugin: 'show-date-1.0-SNAPSHOT'
+
+wrapper
+{
+    group 'Wrapper'
+    gradleVersion '6.2.1'
+}
+apply plugin: DatePlugin

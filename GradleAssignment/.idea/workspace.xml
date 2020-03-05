@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ceb9681-f10e-4c68-a003-f58a40faacd5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/show-date">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GradleAssignment" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GradleAssignment" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GradleAssignment" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GradleAssignment" type="f1a62948:ProjectNode" />
+                <item name="show-date" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GradleAssignment" type="f1a62948:ProjectNode" />
+                <item name="show-date" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GradleAssignment" type="f1a62948:ProjectNode" />
+                <item name="show-date" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YNJt0ShehwkyoLmY9qjJXH8IOY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test.gradle" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.GradleAssignment [build]">
+    <configuration name="GradleAssignment [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GradleAssignment [wrapper]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="wrapper" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GradleAssignment" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GradleAssignment:show-date [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/show-date" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GradleAssignment-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/build/libs/GradleAssignment-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.GradleAssignment:show-date [build]" />
+        <item itemvalue="Gradle.GradleAssignment [build]" />
+        <item itemvalue="Gradle.GradleAssignment" />
+        <item itemvalue="Gradle.GradleAssignment [wrapper]" />
+        <item itemvalue="JAR Application.GradleAssignment-1.0-SNAPSHOT.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ceb9681-f10e-4c68-a003-f58a40faacd5" name="Default Changelist" comment="" />
+      <created>1582777329909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582777329909</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="59" width="848" height="684" key="#Project_Structure" timestamp="1583293613246">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="313" y="59" width="848" height="684" key="#Project_Structure/70.27.1296.741@70.27.1296.741" timestamp="1583293613246" />
+    <state x="526" y="109" width="374" height="584" key="#com.intellij.ide.util.MemberChooser" timestamp="1583209853137">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="526" y="109" width="374" height="584" key="#com.intellij.ide.util.MemberChooser/70.27.1296.741@70.27.1296.741" timestamp="1583209853137" />
+    <state x="525" y="39" width="375" height="723" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1583293281562">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="525" y="39" width="375" height="723" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/70.27.1296.741@70.27.1296.741" timestamp="1583293281562" />
+    <state x="316" y="325" width="803" height="152" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583209186643">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="316" y="325" width="803" height="152" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/70.27.1296.741@70.27.1296.741" timestamp="1583209186643" />
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583300309631">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1583300309631" />
+    <state width="1250" height="170" key="GridCell.Tab.0.bottom" timestamp="1583296983741">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="170" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1583296983741" />
+    <state width="1250" height="170" key="GridCell.Tab.0.center" timestamp="1583296983740">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="170" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1583296983740" />
+    <state width="1250" height="170" key="GridCell.Tab.0.left" timestamp="1583296983740">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="170" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1583296983740" />
+    <state width="1250" height="170" key="GridCell.Tab.0.right" timestamp="1583296983740">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1250" height="170" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1583296983740" />
+    <state x="207" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1583293749797">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="207" y="31" width="1022" height="737" key="SettingsEditor/70.27.1296.741@70.27.1296.741" timestamp="1583293749797" />
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583300299240">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1583300299240" />
+    <state x="70" y="27" width="1286" height="741" key="new project wizard" timestamp="1583231230809">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="70" y="27" width="1286" height="741" key="new project wizard/70.27.1296.741@70.27.1296.741" timestamp="1583231230809" />
+  </component>
+</project>
