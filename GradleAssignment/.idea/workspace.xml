@@ -42,24 +42,6 @@
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
               </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="GradleAssignment" type="f1a62948:ProjectNode" />
-                <item name="show-date" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="GradleAssignment" type="f1a62948:ProjectNode" />
-                <item name="show-date" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="GradleAssignment" type="f1a62948:ProjectNode" />
-                <item name="show-date" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
             </expand>
             <select />
           </tree_state>
@@ -85,7 +67,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Programing/Restful-Services/build.gradle" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -181,9 +163,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.GradleAssignment" />
         <item itemvalue="Gradle.GradleAssignment:show-date [build]" />
         <item itemvalue="Gradle.GradleAssignment [build]" />
-        <item itemvalue="Gradle.GradleAssignment" />
         <item itemvalue="Gradle.GradleAssignment [wrapper]" />
         <item itemvalue="JAR Application.GradleAssignment-1.0-SNAPSHOT.jar" />
       </list>
@@ -207,6 +189,10 @@
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="313" y="59" width="848" height="684" key="#Project_Structure/70.27.1296.741@70.27.1296.741" timestamp="1583293613246" />
+    <state x="444" y="202" width="539" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583734814617">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="444" y="202" width="539" height="397" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1296.741@70.27.1296.741" timestamp="1583734814617" />
     <state x="526" y="109" width="374" height="584" key="#com.intellij.ide.util.MemberChooser" timestamp="1583209853137">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
@@ -215,38 +201,42 @@
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="525" y="39" width="375" height="723" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/70.27.1296.741@70.27.1296.741" timestamp="1583293281562" />
+    <state x="401" y="125" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583733357946">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="401" y="125" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/70.27.1296.741@70.27.1296.741" timestamp="1583733357946" />
     <state x="316" y="325" width="803" height="152" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583209186643">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="316" y="325" width="803" height="152" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/70.27.1296.741@70.27.1296.741" timestamp="1583209186643" />
-    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583300309631">
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583733467816">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1583300309631" />
-    <state width="1250" height="170" key="GridCell.Tab.0.bottom" timestamp="1583296983741">
+    <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1583733467816" />
+    <state width="1250" height="169" key="GridCell.Tab.0.bottom" timestamp="1583736380882">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="170" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1583296983741" />
-    <state width="1250" height="170" key="GridCell.Tab.0.center" timestamp="1583296983740">
+    <state width="1250" height="169" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1583736380882" />
+    <state width="1250" height="169" key="GridCell.Tab.0.center" timestamp="1583736380880">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="170" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1583296983740" />
-    <state width="1250" height="170" key="GridCell.Tab.0.left" timestamp="1583296983740">
+    <state width="1250" height="169" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1583736380880" />
+    <state width="1250" height="169" key="GridCell.Tab.0.left" timestamp="1583736380878">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="170" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1583296983740" />
-    <state width="1250" height="170" key="GridCell.Tab.0.right" timestamp="1583296983740">
+    <state width="1250" height="169" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1583736380878" />
+    <state width="1250" height="169" key="GridCell.Tab.0.right" timestamp="1583736380881">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="170" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1583296983740" />
+    <state width="1250" height="169" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1583736380881" />
     <state x="207" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1583293749797">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="207" y="31" width="1022" height="737" key="SettingsEditor/70.27.1296.741@70.27.1296.741" timestamp="1583293749797" />
-    <state x="374" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583300299240">
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583733398176">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state x="374" y="225" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1583300299240" />
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1583733398176" />
     <state x="70" y="27" width="1286" height="741" key="new project wizard" timestamp="1583231230809">
       <screen x="70" y="27" width="1296" height="741" />
     </state>

@@ -5,6 +5,14 @@
     }
 }*/
 
+// Ans 2 - java -jar GradleAssignment-1.0-SNAPSHOT.jar
+// jar tf GradleAssignment-1.0-SNAPSHOT.jar
+
+//Ans 4 - gradle task date
+
+//Ans7 gradle --profile, open html file in browser
+
+//Ans 5
 class DatePlugin implements Plugin<Project>
 {
     @Override
@@ -27,19 +35,11 @@ plugins {
 //    id 'org.example.show-date-1.0-SNAPSHOT'
 }
 
-jar {
-    manifest {
-        attributes(
-                'Main-Class': 'HelloWorld'
 
-        )
-    }
-}
 
 
 
 //apply from: 'datePlugin.gradle'
-
 
 repositories {
     mavenCentral()
@@ -48,24 +48,35 @@ repositories {
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     compile 'com.google.code.gson:gson:2.8.0'
+    //run ''
 }
 sourceSets
         {
             main
                     {
                         java {
-                            srcDir('src/main/java')
-                            srcDir('show-date')
-                            //include "src/main/JavaCode1"
-                            //include "src/main/JavaCode2"
-                            //include 'java'
+                            srcDir 'src/main/'
+                            exclude 'src/main/java'
+                            include 'src/main/JavaCode1'
+                            include 'src/main/JavaCode2'
                         }
                     }
         }
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'a'
+
+
+        )
+    }
+}
+
+
 
 
 //apply plugin: 'show-date-1.0-SNAPSHOT'
-
+//Ans 6
 wrapper
 {
     group 'Wrapper'
