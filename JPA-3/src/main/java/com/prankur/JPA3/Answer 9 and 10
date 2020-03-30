@@ -1,0 +1,25 @@
+
+
+Ques 9-  Which method on the session object can be used to remove an object from the cache?
+ Ans- Evict method is used
+        session.evict();
+        it will remove from level 1 cache
+        but it won't affect the level 2 cache
+
+
+Ques 10-  What does @transactional annotation do?
+ Ans 10- it makes a method to a transaction
+            i.e. the method will follow ACID properties of Transaction
+            -> either the whole method will be completed or none will be completed
+            @transactional allows for rollback too. on exceptions
+            also it maintains a hibernate session
+
+            e.g
+
+            try{
+                userTransaction.start();
+                businessLogic();
+                userTransaction.commit();
+            } catch(Excepton ex) {
+                ex.rollback();
+            }
